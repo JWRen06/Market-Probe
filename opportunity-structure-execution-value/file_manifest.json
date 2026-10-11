@@ -1,0 +1,267 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 165,
+    "sha256": "672395b74c11ba4125a3108f761c7177551e707217a7ef24f977fc1e8213d511"
+  },
+  {
+    "path": ".python-version",
+    "bytes": 9,
+    "sha256": "9bccfb61c57081accd6a0a9bbc2909a77ee387cfe0168a97c8f1592f3d9d6b92"
+  },
+  {
+    "path": "EVIDENCE.md",
+    "bytes": 1699,
+    "sha256": "b1f868951f1bb0b2319ce8734ffcd5a87317fb098455ef340a877204fbb92a01"
+  },
+  {
+    "path": "experiments/delay_funding_logarithmic_necessity.json",
+    "bytes": 1800,
+    "sha256": "16d70ee115a002abede27bc40b957ed7709d6f62ba2654df863c68589f5b8204"
+  },
+  {
+    "path": "experiments/delay_funding_logarithmic_necessity.py",
+    "bytes": 1374,
+    "sha256": "3dace15dcdd9a573889cea38dec911f0d458c8e811c7256bf0321cb351d3f6d2"
+  },
+  {
+    "path": "experiments/delay_nonnegative_quote_policy_certificate.json",
+    "bytes": 28424,
+    "sha256": "423a24b395cf46881e7a0c89c4d8f3c6509ee4269c0a711e4c02d431f05397ce"
+  },
+  {
+    "path": "experiments/delay_nonnegative_quote_policy_certificate.py",
+    "bytes": 3391,
+    "sha256": "22c98e303eb439af5d7661073985c7d39a4c59650c334814ee14abcc4e1ad849"
+  },
+  {
+    "path": "experiments/delay_nonnegative_quote_separation.json",
+    "bytes": 420,
+    "sha256": "853929be80fc25be3d3faa2e9c64a2b683b4cf5483ebac247b21a49a22d7bc72"
+  },
+  {
+    "path": "experiments/delay_nonnegative_quote_separation.py",
+    "bytes": 1606,
+    "sha256": "4959330418cb89e2df6c8e1039cf940cfe4a91b58aba49eba462cb45e6fbdc61"
+  },
+  {
+    "path": "experiments/delay_settlement_fixed_deadline_cash.json",
+    "bytes": 4672,
+    "sha256": "dc4e9dc1e30f4f09b77b3d29376cce8ff86a4af20de487d71047414699378658"
+  },
+  {
+    "path": "experiments/delay_settlement_fixed_deadline_cash.py",
+    "bytes": 1876,
+    "sha256": "63b317dff28e049b4e1efaf5bc40c269884533933870586c5fd9b7c80c650c0f"
+  },
+  {
+    "path": "experiments/direct_cash_direction_certificate.json",
+    "bytes": 976,
+    "sha256": "dc020bdaa70b58881d1b1625b9ed2413e57c2c256e48991b6cabf7818250a542"
+  },
+  {
+    "path": "experiments/direct_cash_direction_certificate.py",
+    "bytes": 1939,
+    "sha256": "6068394f36fb0fe47661b41d3e96850c0c57c069c13b29ed95477a641ef5eff2"
+  },
+  {
+    "path": "experiments/episode_budget_independent_lp.json",
+    "bytes": 7466,
+    "sha256": "b105477002d4baaff934e014e51bddf138ab1d5e7e712b1b0144aad4fa112ad9"
+  },
+  {
+    "path": "experiments/episode_budget_independent_lp.py",
+    "bytes": 2746,
+    "sha256": "e484d6b48e6837162600fea5c56bbf6b93bc63c80d3ac85207cd977e0295dc4a"
+  },
+  {
+    "path": "experiments/episode_budget_quote_frontier.json",
+    "bytes": 2663,
+    "sha256": "01fbf5f28b1acffa1432297ce251106b85628b75c0a6be71753c1a35c37717e8"
+  },
+  {
+    "path": "experiments/episode_budget_quote_frontier.py",
+    "bytes": 2697,
+    "sha256": "09323fc878a055873c22e735ba9b8753914a5e6efbccef00e6956997691e1d07"
+  },
+  {
+    "path": "experiments/first_paper_third_review_bridge.json",
+    "bytes": 802,
+    "sha256": "11ff423350bc052c7fe488aad8cbfa1988b06accbd5fa2c144c133f7bcbf74c3"
+  },
+  {
+    "path": "experiments/first_paper_third_review_bridge.py",
+    "bytes": 2378,
+    "sha256": "e5a62604f42c839582bebb9f1992d8a959dc9766a895fdf9ae905882bb1f44db"
+  },
+  {
+    "path": "experiments/fixed_gap_settlement_contrast.json",
+    "bytes": 14066,
+    "sha256": "4d59300df49072243793af96a110d18959a999b47b934f0d69a518f963fad362"
+  },
+  {
+    "path": "experiments/fixed_gap_settlement_contrast.py",
+    "bytes": 2082,
+    "sha256": "ec15fc3325e5bc26561e047931278ae5118404e69eb52092dc8f6174b610c748"
+  },
+  {
+    "path": "experiments/fourth_revision_generalization.json",
+    "bytes": 8584,
+    "sha256": "3c0342607067c05ac884d477f0d3aaf327bab39f62629a720929d4d524825ae4"
+  },
+  {
+    "path": "experiments/fourth_revision_generalization.py",
+    "bytes": 8243,
+    "sha256": "bb9f07501685c8b531e57dd74ff49225782b1a53c76fc7c09e0e4f738791f961"
+  },
+  {
+    "path": "experiments/net_measurement_purchase_certificate.json",
+    "bytes": 1402,
+    "sha256": "9857d32385744ad3bd2ef90011cabfe480be956473c86f14808ef1963327082d"
+  },
+  {
+    "path": "experiments/net_measurement_purchase_certificate.py",
+    "bytes": 2423,
+    "sha256": "871b10aaa3b81df5aafa4079cca8ba8ab86db73b39ee4b1cbbea6fc2262b0c76"
+  },
+  {
+    "path": "experiments/revision_core_figures.json",
+    "bytes": 126,
+    "sha256": "ff873318e88ad07ee27ec0bc71fd288e46c661a6eb369bcf21cca4e3f1647ca9"
+  },
+  {
+    "path": "experiments/revision_core_figures.py",
+    "bytes": 8012,
+    "sha256": "997f197511074f82505522ef64bea89e186cd6a2372f4a4d9e6fb1027f800bb0"
+  },
+  {
+    "path": "experiments/revision_unified_cash_panel.json",
+    "bytes": 315042,
+    "sha256": "493cc807cf87e9c8fed4c0ef031d23d6b5c2b83bac07fd5992291553798e318a"
+  },
+  {
+    "path": "experiments/revision_unified_cash_panel.py",
+    "bytes": 5086,
+    "sha256": "ed62419c40a69ed507ad51ac468e7c01a954d3fd464c45fb8ee963293e079f02"
+  },
+  {
+    "path": "paper/figures/fourth_revision_generalization.png",
+    "bytes": 120337,
+    "sha256": "4a712ab1e7f2c0305f0b816059cc9943274908063e0fd118c749b3e3b7131c60"
+  },
+  {
+    "path": "paper/figures/fourth_revision_generalization.svg",
+    "bytes": 77347,
+    "sha256": "c0ec096f890953824bd64a8d6b6d97387ff212fd61f1fd3a734f35929a0ba7e1"
+  },
+  {
+    "path": "paper/figures/revision_cash_and_payment_ledger.svg",
+    "bytes": 498593,
+    "sha256": "202e049453ea643f94ea526ef396a4ce544964492c5c5fc05b6981323d6fbeef"
+  },
+  {
+    "path": "paper/figures/revision_ledger_structure.csv",
+    "bytes": 545239,
+    "sha256": "750ea2fe85f08af731f301974e2b0f2f21e428477f398392248f67b281ce8885"
+  },
+  {
+    "path": "paper/figures/revision_ledger_uniform.csv",
+    "bytes": 427404,
+    "sha256": "6805d12e2f698b030eb1b0f05acf55abd181af131a2f3fa4f2353f5c6e1785f6"
+  },
+  {
+    "path": "paper/figures/revision_legal_world_comparison.svg",
+    "bytes": 63501,
+    "sha256": "869b0304d4ca19101ae40cafbfa5c7682723ae85437debe9c788a7b10d6a12bd"
+  },
+  {
+    "path": "paper/figures/revision_structure_boundary.svg",
+    "bytes": 14977,
+    "sha256": "5048ff238bd9d45e81e0d0661d4db204c0bd6f4d42e9ee16e00bafc9751de1bd"
+  },
+  {
+    "path": "paper/同行审查意见_20261011.md",
+    "bytes": 9365,
+    "sha256": "f6ec983558cbfcdceb6b96011cbf5afd9303ed7f6a79869843e743e8c82887dc"
+  },
+  {
+    "path": "paper/现金公式的协议与条件登记_第二轮.md",
+    "bytes": 5197,
+    "sha256": "6f8933adec1cf574400f22e9ce1ecf2a2968e27c3e4d8e50bc486b407dee6508"
+  },
+  {
+    "path": "paper/第一篇重大修订稿_机会结构的可测价值.md",
+    "bytes": 31331,
+    "sha256": "c6f79852271d0d9203f0af2a6115f25e2117e8ecbe12a9991d191c8d438f293b"
+  },
+  {
+    "path": "paper/第一篇重大修订证明与补充材料.md",
+    "bytes": 37527,
+    "sha256": "ab982b386b8ff56a684df107f41d8bfd55e95e9ae2ad30eb09ea0c461de4cb45"
+  },
+  {
+    "path": "paper/第三轮修订复核意见_20261011.md",
+    "bytes": 5727,
+    "sha256": "83dff46ac68484103c78dc6d6e52612d4fcc5e603bbc7630f3cf30c9e8b337b6"
+  },
+  {
+    "path": "paper/第三轮审稿回应与验证_20261011.md",
+    "bytes": 3780,
+    "sha256": "c0707e4dbfa7417bd2c156181c20d6914eac7adbf58401d0990592d62cf24737"
+  },
+  {
+    "path": "paper/第二轮审稿回应与条件核验_20261011.md",
+    "bytes": 4305,
+    "sha256": "3dd44ea60c64eb81fcbe8cf40c6fa15414f3ea9d23ee233213f098b593d3ca01"
+  },
+  {
+    "path": "paper/第四轮实质修订与验证_20261011.md",
+    "bytes": 6627,
+    "sha256": "ab74226a7e19f22ff76b5539c5af3430e8d4c68bdf5c1fafc30436150feccdfb"
+  },
+  {
+    "path": "paper/第四轮新增核心证明_一般参数与未知基准.md",
+    "bytes": 10718,
+    "sha256": "6345189ed2e2c1a447c0d1b06ed8f5da420164ca7bc3c1fdb0c7b51dd7191516"
+  },
+  {
+    "path": "paper/重大修订统一比较与核心图.md",
+    "bytes": 2631,
+    "sha256": "271b6164b4bbff5e67d2665a2224e7f442268c3c1c46937d05b33f33b573fc83"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2904,
+    "sha256": "518693463d5bd69d72c94df70163fa9a06eaefcc5d6592acebcabd64bebd9f22"
+  },
+  {
+    "path": "reproduce.py",
+    "bytes": 3732,
+    "sha256": "dcd18c6db8eb4c893963a808d1ed5dcfc282d302f6e429d92e7bad0d9eb63d76"
+  },
+  {
+    "path": "REPRODUCIBILITY.md",
+    "bytes": 2025,
+    "sha256": "5b5a37135d6f3db8de155f37da096c046e280b4a7c617597168bd542361d92b2"
+  },
+  {
+    "path": "reproduction_plan.json",
+    "bytes": 790,
+    "sha256": "d48a46ffb54e4b9c561677b230653dea2424801df0b9f92180036630ab1e1647"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 67,
+    "sha256": "2c804f909127c11f3fe1fc572892936a19455837360bc3d99d02c35add8ddbc9"
+  },
+  {
+    "path": "VERIFICATION.json",
+    "bytes": 1985,
+    "sha256": "578adbd528d712ed05423252434bc7072c55d512ab6e5a651163fd7c6df14c7c"
+  },
+  {
+    "path": "机会窗口模型的金融协议与核查范围.md",
+    "bytes": 4013,
+    "sha256": "44b70c49ff8e0ecf2ca5ad4cc8c0e82510193a67b6d2ba854d911f817e3059c1"
+  }
+]

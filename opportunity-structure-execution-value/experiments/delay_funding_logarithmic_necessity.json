@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "exact_conditional_checks": 2247,
+  "rows": [
+    {
+      "kappa": 1,
+      "uninterrupted_uniform_fee_buffer_order_lower": 0.05260688116675876,
+      "scope": "Finite sufficient horizon for the necessary inequality; external income, borrowing and an equally underfunded comparator excluded."
+    },
+    {
+      "kappa": 12,
+      "uninterrupted_uniform_fee_buffer_order_lower": 0.5488322191140821,
+      "scope": "Finite sufficient horizon for the necessary inequality; external income, borrowing and an equally underfunded comparator excluded."
+    },
+    {
+      "kappa": 100,
+      "uninterrupted_uniform_fee_buffer_order_lower": 1.1327827684231957,
+      "scope": "Finite sufficient horizon for the necessary inequality; external income, borrowing and an equally underfunded comparator excluded."
+    },
+    {
+      "kappa": 10000,
+      "uninterrupted_uniform_fee_buffer_order_lower": 2.4575828685436165,
+      "scope": "Finite sufficient horizon for the necessary inequality; external income, borrowing and an equally underfunded comparator excluded."
+    },
+    {
+      "kappa": 1000000,
+      "uninterrupted_uniform_fee_buffer_order_lower": 3.7863141178191633,
+      "scope": "Finite sufficient horizon for the necessary inequality; external income, borrowing and an equally underfunded comparator excluded."
+    }
+  ],
+  "proof": "All-first-m-opportunities-absent event has probability 2^-m; safe fees exhaust after at most floor(B0/.2) failed attempts; conditional cash-rate upper and idle loss give necessary buffer.",
+  "scope": "Universal safe policies in A; complete settlement, minimum fee .2, no outside income, protected principal. Bound compares uninterrupted uniform expected cash; not every replenishable-budget model."
+}

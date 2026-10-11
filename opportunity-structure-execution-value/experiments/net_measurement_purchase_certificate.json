@@ -1,0 +1,43 @@
+{
+  "status": "passed",
+  "records": 38148,
+  "classification_error_upper": 0.004999920166710857,
+  "prior_A": 0.1,
+  "net_purchase_lower": 75.28794823232323,
+  "per_record_price_cap": 0.002973575239391927,
+  "required_deadline": 401058,
+  "no_information_static_candidate_upper": -226.48658359592775,
+  "coefficients_exact": {
+    "A": "14/111375",
+    "D": "7948051/648000",
+    "gamma": "1/324",
+    "delta": "1/1620"
+  },
+  "rows": [
+    {
+      "deadline": 100000,
+      "training_guaranteed": true,
+      "acquisition_lower": -37.8433648989899,
+      "sufficient_per_record_price": 7.985611329823346e-06
+    },
+    {
+      "deadline": 200000,
+      "training_guaranteed": true,
+      "acquisition_lower": -25.27321899551066,
+      "sufficient_per_record_price": 0.0003374955700033904
+    },
+    {
+      "deadline": 400000,
+      "training_guaranteed": true,
+      "acquisition_lower": -0.13292718855218855,
+      "sufficient_per_record_price": 0.0009965154873505246
+    },
+    {
+      "deadline": 1000000,
+      "training_guaranteed": true,
+      "acquisition_lower": 75.28794823232323,
+      "sufficient_per_record_price": 0.002973575239391927
+    }
+  ],
+  "scope": "Prior expected net cash vs actual funded uniform baseline; explicit two-action paid-record task, no tail top-up, all cycles settled, not optimal among free adaptive learning protocols"
+}

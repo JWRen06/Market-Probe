@@ -1,0 +1,92 @@
+{
+  "status": "passed",
+  "exact_window_checks": 2480,
+  "rows": [
+    {
+      "budget": 1.0,
+      "t": 0.2073489218004612,
+      "floor": 0.5448031825969997,
+      "maximum_success_probability": 0.6811255224128957,
+      "reentry_probability_in_layer_realization": 0.31887447758710435,
+      "critical_cost_kappa0_1_12": [
+        0.11863777218210024,
+        0.07679798534765828,
+        0.01573938270493979
+      ]
+    },
+    {
+      "budget": 1.01,
+      "t": 0.20431372631727016,
+      "floor": 0.5454890210786216,
+      "maximum_success_probability": 0.6874127680448446,
+      "reentry_probability_in_layer_realization": 0.3225872319551554,
+      "critical_cost_kappa0_1_12": [
+        0.11815768524496487,
+        0.07645326730467533,
+        0.01565859372099088
+      ]
+    },
+    {
+      "budget": 1.1,
+      "t": 0.17971738435532258,
+      "floor": 0.5507217215732318,
+      "maximum_success_probability": 0.7472268130443711,
+      "reentry_probability_in_layer_realization": 0.3527731869556289,
+      "critical_cost_kappa0_1_12": [
+        0.11449479489873772,
+        0.07383323087947781,
+        0.015047956536888027
+      ]
+    },
+    {
+      "budget": 1.2,
+      "t": 0.15732723882388538,
+      "floor": 0.5550226315927161,
+      "maximum_success_probability": 0.819617724633781,
+      "reentry_probability_in_layer_realization": 0.38038227536621894,
+      "critical_cost_kappa0_1_12": [
+        0.11148415788509868,
+        0.07169294878423227,
+        0.014553551624603573
+      ]
+    },
+    {
+      "budget": 1.3,
+      "t": 0.1390806639084679,
+      "floor": 0.5582383399128827,
+      "maximum_success_probability": 0.8970419779556067,
+      "reentry_probability_in_layer_realization": 0.40295802204439335,
+      "critical_cost_kappa0_1_12": [
+        0.10923316206098206,
+        0.07010041998266389,
+        0.014188225391909516
+      ]
+    }
+  ],
+  "root_bracket_width": "1/3369993333393829974333376885877453834204643052817571560137951281152",
+  "moment_residual_upper": "1e-60",
+  "hidden_oscillation": [
+    {
+      "bins": 8,
+      "cycles_per_bin": 1,
+      "a": 0.5,
+      "m": 0.25,
+      "minimum_interval_budget": 4.75
+    },
+    {
+      "bins": 8,
+      "cycles_per_bin": 10,
+      "a": 0.5,
+      "m": 0.25,
+      "minimum_interval_budget": 40.75
+    },
+    {
+      "bins": 8,
+      "cycles_per_bin": 100,
+      "a": 0.5,
+      "m": 0.25,
+      "minimum_interval_budget": 400.75
+    }
+  ],
+  "scope": "Budget1..1.3; finite-episode legal realizations. Analytic proof covers continuum; grid only implementation. No universal market claim."
+}

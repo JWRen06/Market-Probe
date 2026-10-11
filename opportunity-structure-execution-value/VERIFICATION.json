@@ -1,0 +1,80 @@
+{
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "reportlab": "4.4.9"
+  },
+  "core_only": false,
+  "archived_outputs_overwritten": false,
+  "checks": [
+    {
+      "script": "episode_budget_quote_frontier",
+      "exit_code": 0,
+      "parsed_json_exact_match": true
+    },
+    {
+      "script": "direct_cash_direction_certificate",
+      "exit_code": 0,
+      "parsed_json_exact_match": true
+    },
+    {
+      "script": "fixed_gap_settlement_contrast",
+      "exit_code": 0,
+      "parsed_json_exact_match": true
+    },
+    {
+      "script": "net_measurement_purchase_certificate",
+      "exit_code": 0,
+      "parsed_json_exact_match": true
+    },
+    {
+      "script": "delay_nonnegative_quote_separation",
+      "exit_code": 0,
+      "parsed_json_exact_match": true
+    },
+    {
+      "script": "delay_funding_logarithmic_necessity",
+      "exit_code": 0,
+      "parsed_json_exact_match": true
+    },
+    {
+      "script": "delay_settlement_fixed_deadline_cash",
+      "exit_code": 0,
+      "parsed_json_exact_match": true
+    },
+    {
+      "script": "episode_budget_independent_lp",
+      "exit_code": 0,
+      "parsed_json_exact_match": true
+    },
+    {
+      "script": "first_paper_third_review_bridge",
+      "exit_code": 0,
+      "parsed_json_exact_match": true
+    },
+    {
+      "script": "fourth_revision_generalization",
+      "exit_code": 0,
+      "parsed_json_exact_match": true
+    },
+    {
+      "script": "revision_unified_cash_panel",
+      "exit_code": 0,
+      "parsed_json_exact_match": true
+    },
+    {
+      "script": "delay_nonnegative_quote_policy_certificate",
+      "exit_code": 0,
+      "parsed_json_exact_match": true
+    },
+    {
+      "script": "revision_core_figures",
+      "exit_code": 0,
+      "parsed_json_exact_match": true
+    }
+  ],
+  "figure_outputs_present": true,
+  "status": "passed"
+}

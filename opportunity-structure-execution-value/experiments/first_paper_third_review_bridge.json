@@ -1,0 +1,21 @@
+{
+  "seed": 202610117,
+  "model": "same nonnegative neutral quote model; flat f=.5, c=.1; early candidate r=2 on first half",
+  "N": 4000,
+  "H": 7000,
+  "record_fee": 0.02,
+  "delta": 0.05,
+  "true_cycle_excess": 0.14285714285714285,
+  "confidence_radius": 0.06855831678077338,
+  "ex_ante_margin_condition": true,
+  "lower_vs_uniform": 167.9880952380953,
+  "upper_vs_immediate_candidate": -967.8222222222221,
+  "independent_paths": 256,
+  "mean_vs_uniform": 1254.6984375000004,
+  "se_vs_uniform": 4.915782249574304,
+  "mean_vs_immediate_candidate": -965.9175781250008,
+  "se_vs_immediate_candidate": 5.653751236732217,
+  "approval_fraction": 1.0,
+  "passes": true,
+  "scope": "synthetic renewal validation; no real RFQ calibration and no claim of optimal information acquisition"
+}

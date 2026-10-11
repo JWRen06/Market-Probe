@@ -1,0 +1,26 @@
+{
+  "snapshot_date": "2026-10-11",
+  "manuscript_revision": 4,
+  "core_scripts": [
+    "episode_budget_quote_frontier",
+    "direct_cash_direction_certificate",
+    "fixed_gap_settlement_contrast",
+    "net_measurement_purchase_certificate",
+    "delay_nonnegative_quote_separation",
+    "delay_funding_logarithmic_necessity",
+    "delay_settlement_fixed_deadline_cash"
+  ],
+  "numeric_scripts": [
+    "episode_budget_independent_lp",
+    "first_paper_third_review_bridge",
+    "fourth_revision_generalization",
+    "revision_unified_cash_panel",
+    "delay_nonnegative_quote_policy_certificate"
+  ],
+  "figure_scripts": [
+    "revision_core_figures"
+  ],
+  "data": "synthetic only",
+  "reference_pdfs_included": false,
+  "historical_review_pdf_included": false
+}

@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "cash_margin": "161907/61600000",
+  "mean_probe_wait": "251651/554400",
+  "exact_unbiased_integral_checks": 8,
+  "rows": [
+    {
+      "method": "uniform",
+      "range": 1.1,
+      "precision_only_records": 262356,
+      "records_for_validity_and_95pct_positive_certificate": 1049420
+    },
+    {
+      "method": "cash_direction",
+      "range": 0.55,
+      "precision_only_records": 65590,
+      "records_for_validity_and_95pct_positive_certificate": 262356
+    },
+    {
+      "method": "joint_K_max2",
+      "range": 0.5863636363636363,
+      "precision_only_records": 74550,
+      "records_for_validity_and_95pct_positive_certificate": 298194
+    }
+  ],
+  "fixed_rule_budget_limit": 1.1445598214285715,
+  "scope": "Confidence and certificate power for the fixed candidate with trusted B; no claim of profitable data collection or minimal actual variance. Joint K requires additional complete opportunity observation."
+}

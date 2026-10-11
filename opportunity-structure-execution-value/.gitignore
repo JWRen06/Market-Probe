@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+experiments/_local_dependencies/
+experiments/_plot_dependencies/
+reproduction_output/

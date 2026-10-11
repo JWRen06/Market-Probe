@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "exact_checks": 319,
+  "uniform_cash": "3/5",
+  "all_nonnegative_quote_triangle_lower": "51/80",
+  "direct_response_uniform_gate": "2/5",
+  "financial_world": "probability 2/5 window [0,1/2); probability 3/5 uniform maturity and expiry 1",
+  "scope": "Fixed mean nonnegative timing fees versus density response fee; strong permitted-response distinction, not a market empirical claim"
+}
