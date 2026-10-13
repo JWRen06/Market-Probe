@@ -1,0 +1,38 @@
+[
+  {
+    "rho": 0.6,
+    "repeat": false,
+    "radius_at_cap": 0.2995913534798595,
+    "includes_inverse_information_slope": true
+  },
+  {
+    "rho": 0.6,
+    "repeat": true,
+    "radius_at_cap": 0.29866827346631997,
+    "includes_inverse_information_slope": true
+  },
+  {
+    "rho": 0.8,
+    "repeat": false,
+    "radius_at_cap": 0.19038865371141483,
+    "includes_inverse_information_slope": true
+  },
+  {
+    "rho": 0.8,
+    "repeat": true,
+    "radius_at_cap": 0.1912745962289075,
+    "includes_inverse_information_slope": true
+  },
+  {
+    "rho": 1.0,
+    "repeat": false,
+    "radius_at_cap": 0.11624334172462275,
+    "includes_inverse_information_slope": true
+  },
+  {
+    "rho": 1.0,
+    "repeat": true,
+    "radius_at_cap": 0.11940613109715116,
+    "includes_inverse_information_slope": true
+  }
+]

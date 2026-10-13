@@ -1,0 +1,34 @@
+[
+  {
+    "repeat": false,
+    "theta": -1,
+    "identities": 200000,
+    "categories": 9,
+    "simultaneous_interval_misses": 0,
+    "max_frequency_error": 0.0007673038586163416
+  },
+  {
+    "repeat": false,
+    "theta": 1,
+    "identities": 200000,
+    "categories": 9,
+    "simultaneous_interval_misses": 0,
+    "max_frequency_error": 0.0006000915315470534
+  },
+  {
+    "repeat": true,
+    "theta": -1,
+    "identities": 200000,
+    "categories": 25,
+    "simultaneous_interval_misses": 0,
+    "max_frequency_error": 0.00022556005145402125
+  },
+  {
+    "repeat": true,
+    "theta": 1,
+    "identities": 200000,
+    "categories": 25,
+    "simultaneous_interval_misses": 0,
+    "max_frequency_error": 0.0006013713611909832
+  }
+]
