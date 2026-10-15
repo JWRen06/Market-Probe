@@ -1,0 +1,30 @@
+[
+  {
+    "script": "second_paper_bounded_revision.py",
+    "exit_code": 0
+  },
+  {
+    "script": "second_paper_bounded_independent.py",
+    "exit_code": 0
+  },
+  {
+    "script": "second_paper_bounded_deployment.py",
+    "exit_code": 0
+  },
+  {
+    "script": "second_paper_general_task_separation.py",
+    "exit_code": 0
+  },
+  {
+    "script": "second_paper_geometric_precision.py",
+    "exit_code": 0
+  },
+  {
+    "script": "second_paper_pilot_sphere.py",
+    "exit_code": 0
+  },
+  {
+    "script": "application_contract_bridge.py",
+    "exit_code": 0
+  }
+]

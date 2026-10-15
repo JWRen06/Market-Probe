@@ -1,0 +1,269 @@
+{
+  "status": "passed",
+  "concavity_LP_checks": 315,
+  "max_concavity_LP_error": 3.552713678800501e-15,
+  "independent_upper_kernel_checks": 273,
+  "max_upper_kernel_violation": 4.973799150320701e-14,
+  "independent_lower_kernel_checks": 273,
+  "max_lower_kernel_violation": 6.661338147750939e-16,
+  "different_true_points_in_box_checks": 720,
+  "box_violations": 0,
+  "locally_optimized_precision": [
+    {
+      "Q": 4.0,
+      "tau": 0.01,
+      "direction": [
+        1.0,
+        -1.0,
+        1.0
+      ],
+      "derivative_coefficients": [
+        1.119999999999994,
+        -2.7599999999999927,
+        2.799999999999997
+      ],
+      "least_favorable_mean_distance": 0.0015565655311606606,
+      "necessary_total_record_budget": 3343.1064126859596,
+      "asymptotic_budget_coefficient": 0.3614414399999983
+    },
+    {
+      "Q": 4.0,
+      "tau": 0.02,
+      "direction": [
+        1.0,
+        -1.0,
+        1.0
+      ],
+      "derivative_coefficients": [
+        1.119999999999994,
+        -2.7599999999999927,
+        2.799999999999997
+      ],
+      "least_favorable_mean_distance": 0.0032451600373474172,
+      "necessary_total_record_budget": 769.1530746903986,
+      "asymptotic_budget_coefficient": 0.3614414399999983
+    },
+    {
+      "Q": 4.0,
+      "tau": 0.05,
+      "direction": [
+        1.0,
+        -1.0,
+        1.0
+      ],
+      "derivative_coefficients": [
+        1.119999999999994,
+        -2.7599999999999927,
+        2.799999999999997
+      ],
+      "least_favorable_mean_distance": 0.009376884832541788,
+      "necessary_total_record_budget": 92.12295385686093,
+      "asymptotic_budget_coefficient": 0.3614414399999983
+    },
+    {
+      "Q": 10.0,
+      "tau": 0.01,
+      "direction": [
+        1.0,
+        -1.0,
+        1.0
+      ],
+      "derivative_coefficients": [
+        15.56982783999991,
+        -30.57507071999988,
+        18.52677119999995
+      ],
+      "least_favorable_mean_distance": 0.00015609520575331375,
+      "necessary_total_record_budget": 332434.34796442057,
+      "asymptotic_budget_coefficient": 33.877641443326354
+    },
+    {
+      "Q": 10.0,
+      "tau": 0.02,
+      "direction": [
+        1.0,
+        -1.0,
+        1.0
+      ],
+      "derivative_coefficients": [
+        15.56982783999991,
+        -30.57507071999988,
+        18.52677119999995
+      ],
+      "least_favorable_mean_distance": 0.0003151872642715088,
+      "necessary_total_record_budget": 81535.67999287829,
+      "asymptotic_budget_coefficient": 33.877641443326354
+    },
+    {
+      "Q": 10.0,
+      "tau": 0.05,
+      "direction": [
+        1.0,
+        -1.0,
+        1.0
+      ],
+      "derivative_coefficients": [
+        15.56982783999991,
+        -30.57507071999988,
+        18.52677119999995
+      ],
+      "least_favorable_mean_distance": 0.0008114078080502829,
+      "necessary_total_record_budget": 12302.876198492902,
+      "asymptotic_budget_coefficient": 33.877641443326354
+    },
+    {
+      "Q": 10.0,
+      "tau": 0.08,
+      "direction": [
+        1.0,
+        -1.0,
+        1.0
+      ],
+      "derivative_coefficients": [
+        15.56982783999991,
+        -30.57507071999988,
+        18.52677119999995
+      ],
+      "least_favorable_mean_distance": 0.001338252454542191,
+      "necessary_total_record_budget": 4522.816018581169,
+      "asymptotic_budget_coefficient": 33.877641443326354
+    },
+    {
+      "Q": 20.0,
+      "tau": 0.01,
+      "direction": [
+        1.0,
+        -1.0,
+        1.0
+      ],
+      "derivative_coefficients": [
+        42.222225093168944,
+        -80.55555943438785,
+        46.29629792520225
+      ],
+      "least_favorable_mean_distance": 5.938953323914201e-05,
+      "necessary_total_record_budget": 2296493.3640042995,
+      "asymptotic_budget_coefficient": 231.5469673936632
+    },
+    {
+      "Q": 20.0,
+      "tau": 0.02,
+      "direction": [
+        1.0,
+        -1.0,
+        1.0
+      ],
+      "derivative_coefficients": [
+        42.222225093168944,
+        -80.55555943438785,
+        46.29629792520225
+      ],
+      "least_favorable_mean_distance": 0.0001192709785639095,
+      "necessary_total_record_budget": 569397.3662256856,
+      "asymptotic_budget_coefficient": 231.5469673936632
+    },
+    {
+      "Q": 20.0,
+      "tau": 0.05,
+      "direction": [
+        1.0,
+        -1.0,
+        1.0
+      ],
+      "derivative_coefficients": [
+        42.222225093168944,
+        -80.55555943438785,
+        46.29629792520225
+      ],
+      "least_favorable_mean_distance": 0.0003019309949900796,
+      "necessary_total_record_budget": 88852.49399498387,
+      "asymptotic_budget_coefficient": 231.5469673936632
+    },
+    {
+      "Q": 20.0,
+      "tau": 0.08,
+      "direction": [
+        1.0,
+        -1.0,
+        1.0
+      ],
+      "derivative_coefficients": [
+        42.222225093168944,
+        -80.55555943438785,
+        46.29629792520225
+      ],
+      "least_favorable_mean_distance": 0.0004892542606793761,
+      "necessary_total_record_budget": 33838.86486439742,
+      "asymptotic_budget_coefficient": 231.5469673936632
+    },
+    {
+      "Q": 50.0,
+      "tau": 0.01,
+      "direction": [
+        1.0,
+        -1.0,
+        1.0
+      ],
+      "derivative_coefficients": [
+        122.22222222222138,
+        -230.55555555555443,
+        129.62962962962916
+      ],
+      "least_favorable_mean_distance": 2.0760777463295238e-05,
+      "necessary_total_record_budget": 18793072.640129067,
+      "asymptotic_budget_coefficient": 1885.0069444444255
+    },
+    {
+      "Q": 50.0,
+      "tau": 0.02,
+      "direction": [
+        1.0,
+        -1.0,
+        1.0
+      ],
+      "derivative_coefficients": [
+        122.22222222222138,
+        -230.55555555555443,
+        129.62962962962916
+      ],
+      "least_favorable_mean_distance": 4.1584572776259216e-05,
+      "necessary_total_record_budget": 4684039.305487216,
+      "asymptotic_budget_coefficient": 1885.0069444444255
+    },
+    {
+      "Q": 50.0,
+      "tau": 0.05,
+      "direction": [
+        1.0,
+        -1.0,
+        1.0
+      ],
+      "derivative_coefficients": [
+        122.22222222222138,
+        -230.55555555555443,
+        129.62962962962916
+      ],
+      "least_favorable_mean_distance": 0.00010443703136946248,
+      "necessary_total_record_budget": 742635.9721044876,
+      "asymptotic_budget_coefficient": 1885.0069444444255
+    },
+    {
+      "Q": 50.0,
+      "tau": 0.08,
+      "direction": [
+        1.0,
+        -1.0,
+        1.0
+      ],
+      "derivative_coefficients": [
+        122.22222222222138,
+        -230.55555555555443,
+        129.62962962962916
+      ],
+      "least_favorable_mean_distance": 0.00016786740726149938,
+      "necessary_total_record_budget": 287443.3418671998,
+      "asymptotic_budget_coefficient": 1885.0069444444255
+    }
+  ],
+  "scope": "Independent finite concavity LP, interpolation direction and deterministic box checks. Numerical checks do not replace proofs."
+}
